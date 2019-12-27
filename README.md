@@ -16,3 +16,10 @@ https://youtu.be/83GbyDpJDI4
 Classes & Interfaces
 ===============
 https://ultimatecourses.com/blog/classes-vs-interfaces-in-typescript
+
+
+
+
+TypeScript
+=============
+https://frontendmasters.com/courses/typescript-v2/
