@@ -29,6 +29,7 @@
 
 # Software Developer
 - 🎬🇫🇷 Arnaud Lemaire - Entre industrialisation et artisanat, le métier de développeur - https://www.youtube.com/watch?v=OkTJuyHnlnM
+- 🌐🇫🇷 GitHub Software Engineering de Ousmane Barry - https://github.com/Thialala/software-engineering-learning-guide 
 
 
 
