@@ -18,7 +18,8 @@
 - 🌐🇬🇧 Specific Event Storming Website - https://www.eventstorming.com/
 - 📘🇬🇧 Introducing Event Storming - https://leanpub.com/introducing_eventstorming
 - 📝🇬🇧 EventStorming: Core concepts, glossary and legend — Xebia Blog - https://xebia.com/blog/eventstorming-core-concepts-glossary-and-legend/
-
+- 📝🇬🇧 introducing Event Storming http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html
+- 📝🇬🇧 Event Storming Recipes Slideshare https://fr.slideshare.net/ziobrando/event-storming-recipes
 
 # Refactoring
 - 📘🇬🇧 Design Patern Head First
@@ -38,7 +39,7 @@
 - 🎬 Video / Stream
 - 📘 Book
 - 🌐 Full website
-- 📝 Blog Post / Article
+- 📝 Blog Post / Article / Slides
 - 🏫 Course
 - 🇫🇷 Français
 - 🇬🇧 English
